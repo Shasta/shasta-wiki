@@ -1,3 +1,18 @@
 site_name: Shasta Wiki
+repo_name: 'shasta/shasta-wiki'
+repo_url: 'https://github.com/Shasta/shasta-wiki'
 theme:
   name: 'material'
+  palette:
+    primary: 'pink'
+    accent: 'pink'
+  logo: 'images/logo.png'
+  feature:
+    tabs: true
+  font:
+    text: 'Overpass'
+    code: 'Overpass Mono'
+pages:
+  - Home: 'index.md'
+  - Development: 'index.md'
+  - Blog posts: 'index.md'
