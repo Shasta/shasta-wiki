@@ -73,12 +73,12 @@ ___
 
 <img src="images/ignasi.png" style="width:170px">
 
-- **CTO**: [Ignasi Ramos](https://twitter.com/alexsicart)
+- **CTO**: [Ignasi Ramos](https://twitter.com/IgnasiRamos)
 
 > Full-stack web developer, smart contract engineer. Telecommunications Science and Postgraduate in blockchain technologies at UPC University.
 
 <img src="images/david.png" style="width:170px">
 
-- **Lead Solidity developer**: [David Canillas](https://twitter.com/alexsicart)
+- **Lead Solidity developer**: [David Canillas](https://twitter.com/DavidAweesome)
 
 > Smart contract engineer. Consensys Academy 2018
