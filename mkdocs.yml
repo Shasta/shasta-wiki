@@ -18,6 +18,7 @@ theme:
     code: 'Overpass Mono'
 pages:
   - Home: 'index.md'
+  - Design: 'design.md'
   - Blog posts: 'blog.md'
 extra:
   social:

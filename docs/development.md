@@ -1,0 +1,1 @@
+If you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at [https://github.com/shasta/shasta-wiki](https://github.com/shasta/shasta-wiki).

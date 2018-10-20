@@ -40,6 +40,10 @@ The management of payments, receipts and all the detailed information to control
 
 - LinkedIn - [https://www.linkedin.com/company/shastaproject/](https://www.linkedin.com/company/shastaproject/)
 
+## As seen on
+### Forbes
+[The 'Shasta' Marketplace Or How To Free Your Energy To Power The World](https://www.forbes.com/sites/palomacanterogomez/2018/10/04/the-shasta-marketplace-or-how-to-free-your-energy-to-power-the-world/#3499ebdb60dd)
+
 ## Development
 ### Shasta platform
 > Shasta dapp to operate with energy on the ethereum blockchain.
@@ -49,3 +53,32 @@ Github: [Shasta Platform](https://github.com/Shasta/Shasta)
 > The Shasta logic smart contracts behind Shasta platform.
 
 Github: [Shasta OS](https://github.com/Shasta/ShastaOS)
+
+## Team
+### Founding Team
+
+<img src="images/alex.png" style="width:170px">
+
+- **Founder & CEO**: [Alex Sicart](https://twitter.com/alexsicart)
+
+> Alex Sicart is the Founder of Shasta.
+
+> He is a Forbes 30 Under 30 and Imagine Silicon Valley scholar 2016. Prior to creating Shasta, he created FileNation, with it you can easily share your files around the world through a new P2P technology called IPFS (InterPlanetary File System).
+
+> Sicart had already dabbled in energy prior to this new project he’s now embarking on: he won an Audi scholarship to spend a summer in Silicon Valley with two colleagues, where they developed the Sharge app — an app which connected owners of electric car charging stations with electric vehicle-owners wanting to recharge their cars.
+
+___
+
+### Dev Team
+
+<img src="images/ignasi.png" style="width:170px">
+
+- **CTO**: [Ignasi Ramos](https://twitter.com/alexsicart)
+
+> Full-stack web developer, smart contract engineer. Telecommunications Science and Postgraduate in blockchain technologies at UPC University.
+
+<img src="images/david.png" style="width:170px">
+
+- **Lead Solidity developer**: [David Canillas](https://twitter.com/alexsicart)
+
+> Smart contract engineer. Consensys Academy 2018
