@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to the Shasta Wiki\n\n\n\n\nHello \ud83c\udf0e! We've decided to create this wiki, to gather all the important information of Shasta in one place.\n\n\nShasta website: \nshasta.world\n\nShasta App: \napp.shasta.world\n\nShasta Blog: \nblog.shasta.world\n\n\nIf you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at \nhttps://github.com/shasta/shasta-wiki\n.\n\n\nWhy are we building Shasta?\n\n\nAt Shasta we believe energy freedom and establishing the foundations of the future of energy can allow individuals to move energy around the world in the easiest possible way.\n\n\nElectricity and gas markets have created higher competitive markets and have caused price reductions by privatization. The history of the electric liberalization acknowledges that not everything in the world ended up well, and that there are still many obstacles to overcome.\n\n\nNowadays, the majority of the electric industry is in the hands of tyrants. Even in the most liberal countries, many citizens suffer from electricity poverty. What do we need to do to solve these problems? Give more power to the people.\n\n\nWhat is Shasta?\n\n\n\n\nA fundamental free energy market embedded into code.\n\n\n\n\nShasta is all you need to operate with energy, on the \nEthereum blockchain\n.\n\n\nShasta is a web where suppliers and consumers can connect, building a new and unique energy network model through a \nDAO\n (Decentralized Autonomous Organization).\n\n\nBuilt on \nEthereum\n, a global blockchain for running unstoppable applications. Shasta aims for people to operate with energy in a simple and decentralized manner, which can empower any person to be a consumer and producer, through fair prices, marked by the people who are inside this network.\n\n\nThis platform will allow users to choose the source of their electricity, interact easily in the market and choose the lowest price without barriers or intermediaries.\n\n\nThe management of payments, receipts and all the detailed information to control the energy management is done through an intuitive user-friendly interface.\n\n\nCommunity channels\n\n\n\n\n\n\nReddit - \nhttps://www.reddit.com/r/shastaproject/\n\n\n\n\n\n\nTwitter - \nhttps://twitter.com/ethshasta\n\n\n\n\n\n\nLinkedIn - \nhttps://www.linkedin.com/company/shastaproject/\n\n\n\n\n\n\nDevelopment\n\n\nShasta platform\n\n\n\n\nShasta dapp to operate with energy on the ethereum blockchain.\n\n\n\n\nGithub: \nShasta Platform\n\n\nShasta OS\n\n\n\n\nThe Shasta logic smart contracts behind Shasta platform.\n\n\n\n\nGithub: \nShasta OS", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-the-shasta-wiki", 
+            "text": "Hello \ud83c\udf0e! We've decided to create this wiki, to gather all the important information of Shasta in one place.  Shasta website:  shasta.world \nShasta App:  app.shasta.world \nShasta Blog:  blog.shasta.world  If you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at  https://github.com/shasta/shasta-wiki .", 
+            "title": "Welcome to the Shasta Wiki"
+        }, 
+        {
+            "location": "/#why-are-we-building-shasta", 
+            "text": "At Shasta we believe energy freedom and establishing the foundations of the future of energy can allow individuals to move energy around the world in the easiest possible way.  Electricity and gas markets have created higher competitive markets and have caused price reductions by privatization. The history of the electric liberalization acknowledges that not everything in the world ended up well, and that there are still many obstacles to overcome.  Nowadays, the majority of the electric industry is in the hands of tyrants. Even in the most liberal countries, many citizens suffer from electricity poverty. What do we need to do to solve these problems? Give more power to the people.", 
+            "title": "Why are we building Shasta?"
+        }, 
+        {
+            "location": "/#what-is-shasta", 
+            "text": "A fundamental free energy market embedded into code.   Shasta is all you need to operate with energy, on the  Ethereum blockchain .  Shasta is a web where suppliers and consumers can connect, building a new and unique energy network model through a  DAO  (Decentralized Autonomous Organization).  Built on  Ethereum , a global blockchain for running unstoppable applications. Shasta aims for people to operate with energy in a simple and decentralized manner, which can empower any person to be a consumer and producer, through fair prices, marked by the people who are inside this network.  This platform will allow users to choose the source of their electricity, interact easily in the market and choose the lowest price without barriers or intermediaries.  The management of payments, receipts and all the detailed information to control the energy management is done through an intuitive user-friendly interface.", 
+            "title": "What is Shasta?"
+        }, 
+        {
+            "location": "/#community-channels", 
+            "text": "Reddit -  https://www.reddit.com/r/shastaproject/    Twitter -  https://twitter.com/ethshasta    LinkedIn -  https://www.linkedin.com/company/shastaproject/", 
+            "title": "Community channels"
+        }, 
+        {
+            "location": "/#development", 
+            "text": "", 
+            "title": "Development"
+        }, 
+        {
+            "location": "/#shasta-platform", 
+            "text": "Shasta dapp to operate with energy on the ethereum blockchain.   Github:  Shasta Platform", 
+            "title": "Shasta platform"
+        }, 
+        {
+            "location": "/#shasta-os", 
+            "text": "The Shasta logic smart contracts behind Shasta platform.   Github:  Shasta OS", 
+            "title": "Shasta OS"
+        }, 
+        {
+            "location": "/blog/", 
+            "text": "", 
+            "title": "Blog posts"
+        }
+    ]
+}
