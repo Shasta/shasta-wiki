@@ -1,4 +1,8 @@
 site_name: Shasta Wiki
+site_description: 'A fundamental free energy market embedded into code.'
+site_author: 'Shasta'
+site_url: 'https://shasta.world/'
+
 repo_name: 'shasta/shasta-wiki'
 repo_url: 'https://github.com/Shasta/shasta-wiki'
 theme:
@@ -15,3 +19,11 @@ theme:
 pages:
   - Home: 'index.md'
   - Blog posts: 'blog.md'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/shasta'
+    - type: 'twitter'
+      link: 'https://twitter.com/ethshasta'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/company/shastaproject'

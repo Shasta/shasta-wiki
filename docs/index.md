@@ -4,9 +4,11 @@
 
 Hello 🌎! We've decided to create this wiki, to gather all the important information of Shasta in one place.
 
-Shasta website: [shasta.world](https://shasta.world/)
-Shasta App: [app.shasta.world](https://app.shasta.world)
-Shasta Blog: [blog.shasta.world](https://blog.shasta.world)
+- Shasta website: [shasta.world](https://shasta.world/)
+
+- Shasta App: [app.shasta.world](https://app.shasta.world)
+
+- Shasta Blog: [blog.shasta.world](https://blog.shasta.world)
 
 If you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at [https://github.com/shasta/shasta-wiki](https://github.com/shasta/shasta-wiki).
 
@@ -25,7 +27,7 @@ Shasta is all you need to operate with energy, on the **Ethereum blockchain**.
 
 Shasta is a web where suppliers and consumers can connect, building a new and unique energy network model through a **DAO** (Decentralized Autonomous Organization).
 
-Built on Ethereum, a global blockchain for running unstoppable applications. Shasta aims for people to operate with energy in a simple and decentralized manner, which can empower any person to be a consumer and producer, through fair prices, marked by the people who are inside this network.
+Built on **Ethereum**, a global blockchain for running unstoppable applications. Shasta aims for people to operate with energy in a simple and decentralized manner, which can empower any person to be a consumer and producer, through fair prices, marked by the people who are inside this network.
 
 This platform will allow users to choose the source of their electricity, interact easily in the market and choose the lowest price without barriers or intermediaries.
 
