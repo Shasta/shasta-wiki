@@ -14,5 +14,4 @@ theme:
     code: 'Overpass Mono'
 pages:
   - Home: 'index.md'
-  - Development: 'development.md'
   - Blog posts: 'blog.md'

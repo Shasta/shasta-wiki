@@ -38,6 +38,7 @@ The management of payments, receipts and all the detailed information to control
 
 - LinkedIn - [https://www.linkedin.com/company/shastaproject/](https://www.linkedin.com/company/shastaproject/)
 
+## Development
 ### Shasta platform
 > Shasta dapp to operate with energy on the ethereum blockchain.
 
