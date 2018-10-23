@@ -8,7 +8,7 @@ Hello 🌎! We've decided to create this wiki, to gather all the important infor
 
 - Shasta App: [app.shasta.world](https://app.shasta.world)
 
-- Shasta Blog: [blog.shasta.world](https://blog.shasta.world)
+- Shasta Blog: [blog.shasta.world](https://medium.com/shastaproject)
 
 If you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at [https://github.com/shasta/shasta-wiki](https://github.com/shasta/shasta-wiki).
 
@@ -39,6 +39,11 @@ The management of payments, receipts and all the detailed information to control
 - Twitter - [https://twitter.com/ethshasta](https://twitter.com/ethshasta)
 
 - LinkedIn - [https://www.linkedin.com/company/shastaproject/](https://www.linkedin.com/company/shastaproject/)
+
+## Upcoming events
+- Inside Blockchain by @holablockchain at ImaginCafé (Barcelona). Oct 18.
+- Devcon4, the annual @Ethereum family reunion at Prague Congress Center (Prague). Oct 30 — Nov 2.
+- Aracon, governance, and DAOs by @AragonProject at BOLLE Festsäle (Berlin). Jan 29 — Jan 30.
 
 ## As seen on
 ### Forbes
