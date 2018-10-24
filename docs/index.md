@@ -72,6 +72,7 @@ Github: [Shasta OS](https://github.com/Shasta/ShastaOS)
 
 > Sicart had already dabbled in energy prior to this new project he’s now embarking on: he won an Audi scholarship to spend a summer in Silicon Valley with two colleagues, where they developed the Sharge app — an app which connected owners of electric car charging stations with electric vehicle-owners wanting to recharge their cars.
 
+Contact: [alex@shasta.world](mailto:alex@shasta.world)
 ___
 
 ### Dev Team
@@ -82,8 +83,12 @@ ___
 
 > Full-stack web developer, smart contract engineer. Telecommunications Science and Postgraduate in blockchain technologies at UPC University.
 
+Contact: [ignasi@shasta.world](mailto:ignasi@shasta.world)
+
 <img src="images/david.png" style="width:170px">
 
 - **Lead Solidity developer**: [David Canillas](https://twitter.com/DavidAweesome)
 
 > Smart contract engineer. Consensys Academy 2018
+
+Contact: [david@shasta.world](mailto:david@shasta.world)
