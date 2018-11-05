@@ -10,3 +10,7 @@ The main Ethereum network launch (Shasta 1.0) is expected to happen around Q4 20
 [How to use Shasta, the free energy market](https://medium.com/shastaproject/how-to-use-shasta-the-free-energy-market-2d9f2ab0631e)
 
 #### Will there be a token crowdsale?
+Most likely not.
+
+#### What technology stack are you using?
+Besides Ethereum and IPFS we use React with Redux, and Node.js.
