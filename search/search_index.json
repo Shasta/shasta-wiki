@@ -71,6 +71,41 @@
             "title": "Dev Team"
         }, 
         {
+            "location": "/FAQ/", 
+            "text": "FREQUENTLY ASKED QUESTIONS\n\n\nDo Shasta is real?\n\n\nNot yet. We are planning to make a Shasta first real experiment in February (private area).\n\n\nWhen is the launch?\n\n\nThe main Ethereum network launch (Shasta 1.0) is expected to happen around Q4 2019.\n\n\nHow can I use it?\n\n\nHow to use Shasta, the free energy market\n\n\nWill there be a token crowdsale?\n\n\nMost likely not.\n\n\nWhat technology stack are you using?\n\n\nBesides Ethereum and IPFS we use React with Redux, and Node.js.", 
+            "title": "FAQ"
+        }, 
+        {
+            "location": "/FAQ/#frequently-asked-questions", 
+            "text": "", 
+            "title": "FREQUENTLY ASKED QUESTIONS"
+        }, 
+        {
+            "location": "/FAQ/#do-shasta-is-real", 
+            "text": "Not yet. We are planning to make a Shasta first real experiment in February (private area).", 
+            "title": "Do Shasta is real?"
+        }, 
+        {
+            "location": "/FAQ/#when-is-the-launch", 
+            "text": "The main Ethereum network launch (Shasta 1.0) is expected to happen around Q4 2019.", 
+            "title": "When is the launch?"
+        }, 
+        {
+            "location": "/FAQ/#how-can-i-use-it", 
+            "text": "How to use Shasta, the free energy market", 
+            "title": "How can I use it?"
+        }, 
+        {
+            "location": "/FAQ/#will-there-be-a-token-crowdsale", 
+            "text": "Most likely not.", 
+            "title": "Will there be a token crowdsale?"
+        }, 
+        {
+            "location": "/FAQ/#what-technology-stack-are-you-using", 
+            "text": "Besides Ethereum and IPFS we use React with Redux, and Node.js.", 
+            "title": "What technology stack are you using?"
+        }, 
+        {
             "location": "/design/", 
             "text": "If you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at \nhttps://github.com/shasta/shasta-wiki\n.", 
             "title": "Design"
