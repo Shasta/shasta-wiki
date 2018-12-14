@@ -84,11 +84,3 @@ ___
 > Full-stack web developer, smart contract engineer. Telecommunications Science and Postgraduate in blockchain technologies at UPC University.
 
 Contact: [ignasi@shasta.world](mailto:ignasi@shasta.world)
-
-<img src="images/david.png" style="width:170px">
-
-- **Lead Solidity developer**: [David Canillas](https://twitter.com/DavidAweesome)
-
-> Smart contract engineer. Consensys Academy 2018
-
-Contact: [david@shasta.world](mailto:david@shasta.world)
