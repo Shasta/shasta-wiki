@@ -18,6 +18,8 @@ theme:
     code: 'Overpass Mono'
 pages:
   - Home: 'index.md'
+  - Jobs:
+      - Full-stack Developer: 'jobs/full.md'
   - FAQ: 'FAQ.md'
   - Design: 'design.md'
   - Blog posts: 'blog.md'
