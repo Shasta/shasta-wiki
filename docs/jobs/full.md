@@ -26,4 +26,5 @@ Our team uses the latest web/mobile technologies and we’ll need your expertise
 - Very good written communication skills.
 - Someone who thrives in a collaborative environment
 
+### Send us your CV to alex@shasta.world !
 ### See you! We have an excellent place to work and flexible working hours.
