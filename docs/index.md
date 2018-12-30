@@ -17,11 +17,13 @@ If you feel like contributing to the wiki, like changing or adding things, feel 
 At Shasta we believe in freedom and establishing the foundations of the future of blockchain can allow individuals to use crypto around the world in the easiest possible way.
 
 ## What is Shasta?
-> A fundamental free energy market embedded into code.
+> A fundamental free market embedded into code.
 
 Shasta is the new standard in blockchain, on the **Ethereum blockchain**.
 
-Shasta is a web where suppliers and consumers can connect, building a new and unique  network model through a **DAO** (Decentralized Autonomous Organization).
+With Shasta, you can now pay and request money with crypto to any business out there. It’s fast, safe, easy, and crypto-friendly!
+
+We are working on a solution to enable everyone in the world to access the blockchain and buy their coffee, anything in a simple way.
 
 Built on **Ethereum**, a global blockchain for running unstoppable applications. Shasta aims for people to operate with crypto in a simple and decentralized manner, which can empower any person to be a marketer or a consumer, through fair prices, marked by the people who are inside this network.
 
