@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://shasta.world/</loc>
-     <lastmod>2018-12-30</lastmod>
+     <lastmod>2019-01-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://shasta.world/jobs/full/</loc>
-     <lastmod>2018-12-30</lastmod>
+     <lastmod>2019-01-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://shasta.world/jobs/designer/</loc>
+     <lastmod>2019-01-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://shasta.world/FAQ/</loc>
-     <lastmod>2018-12-30</lastmod>
+     <lastmod>2019-01-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://shasta.world/design/</loc>
-     <lastmod>2018-12-30</lastmod>
+     <lastmod>2019-01-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://shasta.world/blog/</loc>
-     <lastmod>2018-12-30</lastmod>
+     <lastmod>2019-01-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
