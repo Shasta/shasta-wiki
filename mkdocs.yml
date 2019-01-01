@@ -20,6 +20,7 @@ pages:
   - Home: 'index.md'
   - Jobs:
       - Full-stack Developer: 'jobs/full.md'
+      - UX/UI Designer: 'jobs/designer.md'
   - FAQ: 'FAQ.md'
   - Design: 'design.md'
   - Blog posts: 'blog.md'
