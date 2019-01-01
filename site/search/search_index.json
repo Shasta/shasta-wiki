@@ -1,0 +1,149 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to the Shasta Wiki\n\n\n\n\nHello \ud83c\udf0e! We've decided to create this wiki, to gather all the important information of Shasta in one place.\n\n\n\n\n\n\nShasta website: \nshasta.world\n\n\n\n\n\n\nShasta App: \napp.shasta.world\n\n\n\n\n\n\nShasta Blog: \nblog.shasta.world\n\n\n\n\n\n\nIf you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at \nhttps://github.com/shasta/shasta-wiki\n.\n\n\nWhy are we building Shasta?\n\n\nAt Shasta we believe in freedom and establishing the foundations of the future of blockchain can allow individuals to use crypto around the world in the easiest possible way.\n\n\nWhat is Shasta?\n\n\n\n\nA fundamental free market embedded into code.\n\n\n\n\nShasta is the new standard in blockchain, on the \nEthereum blockchain\n.\n\n\nWith Shasta, you can now pay and request money with crypto to any business out there. It\u2019s fast, safe, easy, and crypto-friendly!\n\n\nWe are working on a solution to enable everyone in the world to access the blockchain and buy their coffee, anything in a simple way.\n\n\nBuilt on \nEthereum\n, a global blockchain for running unstoppable applications. Shasta aims for people to operate with crypto in a simple and decentralized manner, which can empower any person to be a marketer or a consumer, through fair prices, marked by the people who are inside this network.\n\n\nThis platform will allow users to interact easily in the market and choose the lowest price without barriers or intermediaries.\n\n\nThe management of payments, receipts and all the detailed information is done through an intuitive user-friendly interface.\n\n\nCommunity channels\n\n\n\n\n\n\nReddit - \nhttps://www.reddit.com/r/shastaproject/\n\n\n\n\n\n\nTwitter - \nhttps://twitter.com/ethshasta\n\n\n\n\n\n\nLinkedIn - \nhttps://www.linkedin.com/company/shastaproject/\n\n\n\n\n\n\nUpcoming events\n\n\n\n\nInside Blockchain by @holablockchain at ImaginCaf\u00e9 (Barcelona). Oct 18.\n\n\nDevcon4, the annual @Ethereum family reunion at Prague Congress Center (Prague). Oct 30\u200a\u2014\u200aNov 2.\n\n\nAracon, governance, and DAOs by @AragonProject at BOLLE Fests\u00e4le (Berlin). Jan 29\u200a\u2014\u200aJan 30.\n\n\n\n\nAs seen on\n\n\nForbes\n\n\nThe 'Shasta' Marketplace Or How To Free Your Energy To Power The World\n\n\nDevelopment\n\n\nShasta platform\n\n\n\n\nShasta dapp to operate with energy on the ethereum blockchain.\n\n\n\n\nGithub: \nShasta Platform\n\n\nShasta OS\n\n\n\n\nThe Shasta logic smart contracts behind Shasta platform.\n\n\n\n\nGithub: \nShasta OS\n\n\nTeam\n\n\nFounding Team\n\n\n\n\n\n\nFounder \n CEO\n: \nAlex Sicart\n\n\n\n\n\n\nAlex Sicart is the Founder of Shasta.\n\n\nHe is a Forbes 30 Under 30 and Imagine Silicon Valley scholar 2016. Prior to creating Shasta, he created FileNation, with it you can easily share your files around the world through a new P2P technology called IPFS (InterPlanetary File System).\n\n\nSicart had already dabbled in energy prior to this new project he\u2019s now embarking on: he won an Audi scholarship to spend a summer in Silicon Valley with two colleagues, where they developed the Sharge app\u200a\u2014\u200aan app which connected owners of electric car charging stations with electric vehicle-owners wanting to recharge their cars.\n\n\n\n\nContact: \nalex@shasta.world\n\n\n\n\nDev Team\n\n\n\n\n\n\nCTO\n: \nIgnasi Ramos\n\n\n\n\n\n\nFull-stack web developer, smart contract engineer. Telecommunications Science and Postgraduate in blockchain technologies at UPC University.\n\n\n\n\nContact: \nignasi@shasta.world", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-the-shasta-wiki", 
+            "text": "Hello \ud83c\udf0e! We've decided to create this wiki, to gather all the important information of Shasta in one place.    Shasta website:  shasta.world    Shasta App:  app.shasta.world    Shasta Blog:  blog.shasta.world    If you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at  https://github.com/shasta/shasta-wiki .", 
+            "title": "Welcome to the Shasta Wiki"
+        }, 
+        {
+            "location": "/#why-are-we-building-shasta", 
+            "text": "At Shasta we believe in freedom and establishing the foundations of the future of blockchain can allow individuals to use crypto around the world in the easiest possible way.", 
+            "title": "Why are we building Shasta?"
+        }, 
+        {
+            "location": "/#what-is-shasta", 
+            "text": "A fundamental free market embedded into code.   Shasta is the new standard in blockchain, on the  Ethereum blockchain .  With Shasta, you can now pay and request money with crypto to any business out there. It\u2019s fast, safe, easy, and crypto-friendly!  We are working on a solution to enable everyone in the world to access the blockchain and buy their coffee, anything in a simple way.  Built on  Ethereum , a global blockchain for running unstoppable applications. Shasta aims for people to operate with crypto in a simple and decentralized manner, which can empower any person to be a marketer or a consumer, through fair prices, marked by the people who are inside this network.  This platform will allow users to interact easily in the market and choose the lowest price without barriers or intermediaries.  The management of payments, receipts and all the detailed information is done through an intuitive user-friendly interface.", 
+            "title": "What is Shasta?"
+        }, 
+        {
+            "location": "/#community-channels", 
+            "text": "Reddit -  https://www.reddit.com/r/shastaproject/    Twitter -  https://twitter.com/ethshasta    LinkedIn -  https://www.linkedin.com/company/shastaproject/", 
+            "title": "Community channels"
+        }, 
+        {
+            "location": "/#upcoming-events", 
+            "text": "Inside Blockchain by @holablockchain at ImaginCaf\u00e9 (Barcelona). Oct 18.  Devcon4, the annual @Ethereum family reunion at Prague Congress Center (Prague). Oct 30\u200a\u2014\u200aNov 2.  Aracon, governance, and DAOs by @AragonProject at BOLLE Fests\u00e4le (Berlin). Jan 29\u200a\u2014\u200aJan 30.", 
+            "title": "Upcoming events"
+        }, 
+        {
+            "location": "/#as-seen-on", 
+            "text": "", 
+            "title": "As seen on"
+        }, 
+        {
+            "location": "/#forbes", 
+            "text": "The 'Shasta' Marketplace Or How To Free Your Energy To Power The World", 
+            "title": "Forbes"
+        }, 
+        {
+            "location": "/#development", 
+            "text": "", 
+            "title": "Development"
+        }, 
+        {
+            "location": "/#shasta-platform", 
+            "text": "Shasta dapp to operate with energy on the ethereum blockchain.   Github:  Shasta Platform", 
+            "title": "Shasta platform"
+        }, 
+        {
+            "location": "/#shasta-os", 
+            "text": "The Shasta logic smart contracts behind Shasta platform.   Github:  Shasta OS", 
+            "title": "Shasta OS"
+        }, 
+        {
+            "location": "/#team", 
+            "text": "", 
+            "title": "Team"
+        }, 
+        {
+            "location": "/#founding-team", 
+            "text": "Founder   CEO :  Alex Sicart    Alex Sicart is the Founder of Shasta.  He is a Forbes 30 Under 30 and Imagine Silicon Valley scholar 2016. Prior to creating Shasta, he created FileNation, with it you can easily share your files around the world through a new P2P technology called IPFS (InterPlanetary File System).  Sicart had already dabbled in energy prior to this new project he\u2019s now embarking on: he won an Audi scholarship to spend a summer in Silicon Valley with two colleagues, where they developed the Sharge app\u200a\u2014\u200aan app which connected owners of electric car charging stations with electric vehicle-owners wanting to recharge their cars.   Contact:  alex@shasta.world", 
+            "title": "Founding Team"
+        }, 
+        {
+            "location": "/#dev-team", 
+            "text": "CTO :  Ignasi Ramos    Full-stack web developer, smart contract engineer. Telecommunications Science and Postgraduate in blockchain technologies at UPC University.   Contact:  ignasi@shasta.world", 
+            "title": "Dev Team"
+        }, 
+        {
+            "location": "/jobs/full/", 
+            "text": "Full-stack Developer at Shasta\n\n\nWith Shasta, you can now pay and request money with crypto to any business out there. It\u2019s fast, safe, easy, and crypto-friendly!\n\n\nWe are working on a solution to enable everyone in the world to access the blockchain and buy their coffee, anything in a simple way.\n\n\nAs a Shasta full-stack Developer you will be creating with our team this new payment solution to join the crypto world with the real money and enable users to interact with the market.\n\n\nOur team uses the latest web/mobile technologies and we\u2019ll need your expertise to keep us at the cutting-edge by rapidly developing, fast, and secure experiences for our customers.\n\n\nWhat you\u2019ll be doing:\n\n\n\n\nWork with the tech team to develop Shasta Pay. (mobile app)\n\n\nCollaborate with the product team to define new product features.\n\n\nMerge Shasta Pay with the Shasta Market. (Shasta OS)\n\n\n\n\nSkills that we\u2019re looking for:\n\n\n\n\n2+ years of relevant full time experience.\n\n\nAdvanced JavaScript + HTML + CSS.\n\n\nExperience with back-end frameworks (Node, Express, Koa, GraphQL).\n\n\nExperience with React and React Native.\n\n\nGreat engineering skills and strong CS fundamentals\n\n\nBeing an autonomous individual with a proactive attitude and a love for time self-management.\n\n\nVery good written communication skills.\n\n\nSomeone who thrives in a collaborative environment\n\n\n\n\nSend us your CV to alex@shasta.world !\n\n\nSee you! We have an excellent place to work and flexible working hours.", 
+            "title": "Full-stack Developer"
+        }, 
+        {
+            "location": "/jobs/full/#full-stack-developer-at-shasta", 
+            "text": "With Shasta, you can now pay and request money with crypto to any business out there. It\u2019s fast, safe, easy, and crypto-friendly!  We are working on a solution to enable everyone in the world to access the blockchain and buy their coffee, anything in a simple way.  As a Shasta full-stack Developer you will be creating with our team this new payment solution to join the crypto world with the real money and enable users to interact with the market.  Our team uses the latest web/mobile technologies and we\u2019ll need your expertise to keep us at the cutting-edge by rapidly developing, fast, and secure experiences for our customers.", 
+            "title": "Full-stack Developer at Shasta"
+        }, 
+        {
+            "location": "/jobs/full/#what-youll-be-doing", 
+            "text": "Work with the tech team to develop Shasta Pay. (mobile app)  Collaborate with the product team to define new product features.  Merge Shasta Pay with the Shasta Market. (Shasta OS)", 
+            "title": "What you\u2019ll be doing:"
+        }, 
+        {
+            "location": "/jobs/full/#skills-that-were-looking-for", 
+            "text": "2+ years of relevant full time experience.  Advanced JavaScript + HTML + CSS.  Experience with back-end frameworks (Node, Express, Koa, GraphQL).  Experience with React and React Native.  Great engineering skills and strong CS fundamentals  Being an autonomous individual with a proactive attitude and a love for time self-management.  Very good written communication skills.  Someone who thrives in a collaborative environment", 
+            "title": "Skills that we\u2019re looking for:"
+        }, 
+        {
+            "location": "/jobs/full/#send-us-your-cv-to-alexshastaworld", 
+            "text": "", 
+            "title": "Send us your CV to alex@shasta.world !"
+        }, 
+        {
+            "location": "/jobs/full/#see-you-we-have-an-excellent-place-to-work-and-flexible-working-hours", 
+            "text": "", 
+            "title": "See you! We have an excellent place to work and flexible working hours."
+        }, 
+        {
+            "location": "/FAQ/", 
+            "text": "FREQUENTLY ASKED QUESTIONS\n\n\nDo Shasta is real?\n\n\nNot yet. We are planning to make a Shasta first real experiment in February (private area).\n\n\nWhen is the launch?\n\n\nThe main Ethereum network launch (Shasta 1.0) is expected to happen around Q4 2019.\n\n\nHow can I use it?\n\n\nHow to use Shasta, the free energy market\n\n\nWill there be a token crowdsale?\n\n\nMost likely not.\n\n\nWhat technology stack are you using?\n\n\nBesides Ethereum and IPFS we use React with Redux, and Node.js.", 
+            "title": "FAQ"
+        }, 
+        {
+            "location": "/FAQ/#frequently-asked-questions", 
+            "text": "", 
+            "title": "FREQUENTLY ASKED QUESTIONS"
+        }, 
+        {
+            "location": "/FAQ/#do-shasta-is-real", 
+            "text": "Not yet. We are planning to make a Shasta first real experiment in February (private area).", 
+            "title": "Do Shasta is real?"
+        }, 
+        {
+            "location": "/FAQ/#when-is-the-launch", 
+            "text": "The main Ethereum network launch (Shasta 1.0) is expected to happen around Q4 2019.", 
+            "title": "When is the launch?"
+        }, 
+        {
+            "location": "/FAQ/#how-can-i-use-it", 
+            "text": "How to use Shasta, the free energy market", 
+            "title": "How can I use it?"
+        }, 
+        {
+            "location": "/FAQ/#will-there-be-a-token-crowdsale", 
+            "text": "Most likely not.", 
+            "title": "Will there be a token crowdsale?"
+        }, 
+        {
+            "location": "/FAQ/#what-technology-stack-are-you-using", 
+            "text": "Besides Ethereum and IPFS we use React with Redux, and Node.js.", 
+            "title": "What technology stack are you using?"
+        }, 
+        {
+            "location": "/design/", 
+            "text": "If you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at \nhttps://github.com/shasta/shasta-wiki\n.", 
+            "title": "Design"
+        }, 
+        {
+            "location": "/blog/", 
+            "text": "If you feel like contributing to the wiki, like changing or adding things, feel free to create an Issue or submit a Pull Request at \nhttps://github.com/shasta/shasta-wiki\n.", 
+            "title": "Blog posts"
+        }
+    ]
+}
