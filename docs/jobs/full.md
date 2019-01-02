@@ -2,7 +2,7 @@
 
 With Shasta, you can now pay and request money with crypto to any business out there. It’s fast, safe, easy, and crypto-friendly!
 
-We are working on a solution to enable everyone in the world to access the blockchain and buy their coffee, anything in a simple way.
+We are working on a solution to enable everyone in the world to access the blockchain and buy their ☕️ 🎸 🏝, anything in a simple way.
 
 As a Shasta full-stack Developer you will be creating with our team this new payment solution to join the crypto world with the real money and enable users to interact with the market.
 
